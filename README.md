@@ -13,6 +13,11 @@
    docker compose stop
    ```
 
+## Entity Relationship Diagram
+```shell
+https://drive.google.com/file/d/1cbqI1dXDQRdrSX4Qyd4FT0KsgLjYAlX5/view?usp=sharing
+```
+
 ## API
 ### POST /signup
 ```shell
